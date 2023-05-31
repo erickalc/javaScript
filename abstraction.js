@@ -20,3 +20,6 @@ let emp1 = new Employee('John', 30, 2000);
 emp1.getEmpDetails();
 
 console.log ('abcd');
+
+
+// ABSADFSASDFASDF
